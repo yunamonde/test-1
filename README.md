@@ -1,11 +1,19 @@
-# 깃허브
+소스 코드 삽입하기
 
-원격 저장소 만들기
+```javascript
+<script>
+  var now = new Date();
+  var display = new.toLocaleTimeString();
+  document.write("현재 시각은 " + display);
+</script>
+```
 
-Origin 연결하기
+코드 입력 끝!
 
-push
+<https://www.eayspub.co.kr>
 
-pull vs fetch
+[이지스퍼블리싱](http://www.easyspub.co.kr)
 
-협업하기
+[구글](https://google.com, "검색 사이트")
+
+![이미지 연습](http://kyrieko.dothome.co.kr/images/first.jpg)
